@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 40%; /* Ajusta el porcentaje según el ancho deseado */
+    margin: 0 auto; /* Centra el contenido horizontalmente */
+    background-color: white;
+    padding: 20px;
+}
+.container2 {
+    width: 67%;
+}
+
+h1 {
+    font-size: 3.5rem;
+    color: black;
+    line-height: 1.4;
+    margin-bottom: 20px;
+    margin-top: 8px;
+}
+
+h4 {
+    color: red;
+    font-size: 0.8rem;
+    margin-bottom: 0%;
+    font-weight: 800;
+}
+
+h5 {
+    margin-top: 0%;
+    margin-bottom: 5px;
+    font-size: 1rem;
+    color: #666;
+    font-weight: 100;
+}
+h6{
+
+    margin-top: 0%;
+    color: #666;
+    font-weight: 600;
+    font-size: 0.8rem;
+}
+a {
+    text-decoration: none;
+    color: blue;
+    font-weight: 100;
+}
+p {
+    color: #424242; 
+    font-size: 1.2rem; 
+    font-weight: 200;
+}
+
+
+img {
+    margin-top: 40px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
